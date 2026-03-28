@@ -1,0 +1,10 @@
+# Core dependencies
+numpy>=1.24
+opencv-python>=4.8
+matplotlib>=3.7
+
+# Deep learning (RL training)
+torch>=2.0
+
+# Optional — faster I/O
+# Pillow>=10.0
