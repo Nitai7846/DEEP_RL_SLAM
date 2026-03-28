@@ -1,0 +1,12 @@
+{
+  "_comment": "Default SLAM hyperparameters. Pass this file to --hparams to override defaults.",
+  "trans_thresh": 0.10,
+  "rot_thresh_deg": 10.0,
+  "min_frame_gap": 10,
+  "lc_min_frame_separation": 30,
+  "lc_min_candidate_matches": 80,
+  "lc_max_candidates": 5,
+  "lc_min_inliers": 50,
+  "lc_pnp_reproj_thresh": 3.0,
+  "max_dt_gap": 0.20
+}

@@ -1,0 +1,19 @@
+{
+  "_comment": "Best hyperparameters found by the DRL agent (episode 30, freiburg2_pioneer_slam2).",
+  "_metrics": {
+    "reward": -0.3576,
+    "rmse_kf_m": 0.3386,
+    "num_keyframes": 21,
+    "num_loops": 16,
+    "num_frames": 720
+  },
+  "trans_thresh": 0.4934,
+  "rot_thresh_deg": 9.9442,
+  "min_frame_gap": 22,
+  "lc_min_frame_separation": 67,
+  "lc_min_candidate_matches": 80,
+  "lc_max_candidates": 5,
+  "lc_min_inliers": 88,
+  "lc_pnp_reproj_thresh": 3.2699,
+  "max_dt_gap": 0.20
+}
